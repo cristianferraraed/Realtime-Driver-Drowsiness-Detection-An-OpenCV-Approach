@@ -1,6 +1,4 @@
-# Real time Driver Drowsiness Detection System | OpenCV
-
-**Complete Video Tutorial:** https://youtu.be/X8MjK-5CPFo
+# Realtime Driver Drowsiness Detection: An OpenCV Approach
 
 # Project Information
 
